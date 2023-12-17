@@ -8,3 +8,10 @@ so it is gonna be difficult
 
 this project is open source and you can 
 use in your project
+
+
+
+
+update 12/17/2023
+
+comdigured the stack and allocated virtual memory
