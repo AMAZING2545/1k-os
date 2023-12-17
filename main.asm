@@ -5,7 +5,7 @@ dd 0
 section .text:
 ;set stack 
 mov bp, 0x7f00
-mov dp, bp
+mov sp, bp
 
 
 jmp $
