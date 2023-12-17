@@ -14,4 +14,4 @@ use in your project
 
 update 12/17/2023
 
-comdigured the stack and allocated virtual memory
+configured the stack and allocated virtual memory
