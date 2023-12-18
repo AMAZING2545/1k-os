@@ -1,7 +1,7 @@
 # 1k-os
 
 Here starts a long journey of making an os 
-in x86 asm real mode
+in x86 asm real mode.
 I have little asm understanding 
 so it is gonna be difficult
 
