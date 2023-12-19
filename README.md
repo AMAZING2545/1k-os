@@ -15,3 +15,7 @@ use in your project
 update 12/17/2023
 
 configured the stack and allocated virtual memory
+
+update 12/19/2023
+
+bootloader phase 1 added
