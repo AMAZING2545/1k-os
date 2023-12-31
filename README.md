@@ -19,3 +19,7 @@ configured the stack and allocated virtual memory
 update 12/19/2023
 
 bootloader phase 1 added
+
+12/30/2023
+
+added basic services
