@@ -21,9 +21,9 @@ update 12/19/2023
 bootloader phase 1 added
 
 12/30/2023
-
+v 1.0.0
 added basic services
 
 8/1/24
-
+v 1.0.2
 added ui 
