@@ -23,3 +23,7 @@ bootloader phase 1 added
 12/30/2023
 
 added basic services
+
+8/1/24
+
+added ui 
